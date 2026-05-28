@@ -10,4 +10,4 @@
 - git push origin <BRANCH>: envia as modificações locais para o repositório remoto.
 - git pull origin <BRANCH>: baixa as modificações remotas para o repositório local.
 - git checkout -b <NAME>: Cria uma nova branch.
--git checkout <NAME>: Troca para uma brranch já existente.
+- git checkout <NAME>: Troca para uma brranch já existente.
