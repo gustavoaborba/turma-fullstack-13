@@ -9,3 +9,4 @@
 - git log --oneline X: retorna os X últimos commit.
 - git push origin <BRANCH>: envia as modificações locais para o repositório remoto.
 - git pull origin <BRANCH>: baixa as modificações remotas para o repositório local.
+- git checkout -b <NAME>: Troca para uma nova branch
