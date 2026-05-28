@@ -7,3 +7,6 @@ create table treinarecife_db.tb_alunos{
     email varchar(255) not null,
     data_nascimento date
 };
+
+insert into treina_recife_db.tb_alunos 
+values (1, "Gustavo", "Almeida Borba", "aa@gmail.com", Null);
